@@ -2,6 +2,14 @@
 
 Repository Contents
 
+Summary of my Bachelor’s thesis research conducted at Mid Sweden University.
+
+Objective: Benchmark State-of-the-Art LLMs to evaluate efficiency trade-offs.
+
+Metrics: Analyzed inference latency, token generation speed, and response accuracy.
+
+Result: Provided data-driven frameworks for selecting optimal models based on specific hardware constraints
+
 Below is a quick guide to the files and folders included in this repository:
 
 
